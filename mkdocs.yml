@@ -1,0 +1,4 @@
+site_name: Event seating and check-in handbook
+docs_dir: docs
+nav:
+  - Handbook: index.md
